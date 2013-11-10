@@ -33,7 +33,6 @@ Et les zooms sont toujours là quand les deux protagonistes se rapprochent l'un 
   
 
 **Les bruitages** ne sont pas en reste et on se demande si on n'a pas allumé sa Neo au lieu de la 3DO mais non, tout y est.  
-
 Bruit des vagues qui claquent sur les rochers, les épées qui s'entrechoquent ainsi de suite, bref, là, ça fait plaisir à entendre.  
 
   
@@ -48,22 +47,17 @@ Mais après, c'est une question de point de vue.
 
   
 
-**Le Gameplay **est différent d'un Street ou d'un AoF, car arme blanche oblige, on peut perdre son arme après un "face à face" où il faut bourriner son bouton A pour que l'adversaire se retrouve à mains nues.  
-
+**Le Gameplay** est différent d'un Street ou d'un AoF, car arme blanche oblige, on peut perdre son arme après un "face à face" où il faut bourriner son bouton A pour que l'adversaire se retrouve à mains nues.
 Si on perd son arme, on peut la récupérer en passant dessus mais pour ça, il va falloir se défendre pour éviter la défaite..  
-
 Il existe une jauge de "pow" qui se remplie quand on prend des coups et une fois pleine, on peut déclencher une furie dévastatrice.  
-
 Par contre, à sortir sur le PAD de la 3DO est une plaie mais avec un stick arcade, un vrai plaisir.  
 
-Attention, cette jauge se vide une fois la furie exécutée, donc, à utiliser à très bon escient.  
-
+**Attention** , cette jauge se vide une fois la furie exécutée, donc, à utiliser à très bon escient.  
 Le nombre de persos à sélectionner est de 12 ce qui est honorable pour un jeu de cette époque.  
 
   
 
-**Conclusion**, cette version 3DO de Samurai Shodown est une très bonne surprise, techniquement très bien réalisée aussi bien dans les graphismes et animations que dans les musiques et bruitages, bref, tout ce qui a fait le charme de la version Neo-Geo.  
+**Conclusion** : cette version 3DO de Samurai Shodown est une très bonne surprise, techniquement très bien réalisée aussi bien dans les graphismes et animations que dans les musiques et bruitages, bref, tout ce qui a fait le charme de la version Neo-Geo.  
 
   
-
 **9/10**
