@@ -48,7 +48,7 @@ Mais après, c'est une question de point de vue.
 
   
 
-**Le Gameplay **est différent d'un Street ou d'un AoF, car arme blanche oblige, on peut perdre son arme après un "face à face" où il faut bourriner son bouton A pour que l'adversaire se retrouve à mains nues.  
+**Le Gameplay** est différent d'un Street ou d'un AoF, car arme blanche oblige, on peut perdre son arme après un "face à face" où il faut bourriner son bouton A pour que l'adversaire se retrouve à mains nues.  
 
 Si on perd son arme, on peut la récupérer en passant dessus mais pour ça, il va falloir se défendre pour éviter la défaite..  
 
@@ -62,7 +62,7 @@ Le nombre de persos à sélectionner est de 12 ce qui est honorable pour un jeu 
 
   
 
-**Conclusion**, cette version 3DO de Samurai Shodown est une très bonne surprise, techniquement très bien réalisée aussi bien dans les graphismes et animations que dans les musiques et bruitages, bref, tout ce qui a fait le charme de la version Neo-Geo.  
+**Conclusion** : Cette version 3DO de Samurai Shodown est une très bonne surprise, techniquement très bien réalisée aussi bien dans les graphismes et animations que dans les musiques et bruitages, bref, tout ce qui a fait le charme de la version Neo-Geo.  
 
   
 
